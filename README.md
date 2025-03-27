@@ -1,4 +1,4 @@
-![pmc02layout](https://github.com/user-attachments/assets/9e5b8d45-101c-4f75-ac7d-afc2752483cb)# EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
+# EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
 
 
  ## Aim: To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
